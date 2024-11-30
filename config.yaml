@@ -1,0 +1,9 @@
+path: D:\Mylearning\ML\dataset
+train: D:\Mylearning\ML\dataset\train\images
+val: D:\Mylearning\ML\dataset\val\images
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['without', 'helmet']

@@ -1,0 +1,6 @@
+venv
+__pycatch__
+./__pycatch__
+././__pycatch__
+*copy
+AnalogReadSerial

@@ -1,0 +1,4 @@
+train: D:\Mylearning\ML\train
+val: D:\Mylearning\ML\val
+
+names: ['without', 'helmet']
